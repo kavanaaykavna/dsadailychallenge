@@ -65,4 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/kavanaaykavna/dsadailychallenge/tree/master/0050-powx-n) |
+## String
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/kavanaaykavna/dsadailychallenge/tree/master/3498-reverse-degree-of-a-string) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/kavanaaykavna/dsadailychallenge/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
