@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/kavanaaykavna/dsadailychallenge/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/kavanaaykavna/dsadailychallenge/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/kavanaaykavna/dsadailychallenge/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/kavanaaykavna/dsadailychallenge/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/kavanaaykavna/dsadailychallenge/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kavanaaykavna/dsadailychallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/kavanaaykavna/dsadailychallenge/tree/master/0136-single-number) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/kavanaaykavna/dsadailychallenge/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/kavanaaykavna/dsadailychallenge/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/kavanaaykavna/dsadailychallenge/tree/master/0079-word-search) |
 | [2965-find-missing-and-repeated-values](https://github.com/kavanaaykavna/dsadailychallenge/tree/master/2965-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/kavanaaykavna/dsadailychallenge/tree/master/0079-word-search) |
 | [3498-reverse-degree-of-a-string](https://github.com/kavanaaykavna/dsadailychallenge/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
 |  |
@@ -101,4 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/kavanaaykavna/dsadailychallenge/tree/master/0074-search-a-2d-matrix) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/kavanaaykavna/dsadailychallenge/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/kavanaaykavna/dsadailychallenge/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
