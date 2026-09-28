@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/kavanaaykavna/dsadailychallenge/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/kavanaaykavna/dsadailychallenge/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/kavanaaykavna/dsadailychallenge/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/kavanaaykavna/dsadailychallenge/tree/master/0242-valid-anagram) |
 | [2965-find-missing-and-repeated-values](https://github.com/kavanaaykavna/dsadailychallenge/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/kavanaaykavna/dsadailychallenge/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kavanaaykavna/dsadailychallenge/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/kavanaaykavna/dsadailychallenge/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/kavanaaykavna/dsadailychallenge/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/kavanaaykavna/dsadailychallenge/tree/master/0079-word-search) |
+| [0242-valid-anagram](https://github.com/kavanaaykavna/dsadailychallenge/tree/master/0242-valid-anagram) |
 | [3498-reverse-degree-of-a-string](https://github.com/kavanaaykavna/dsadailychallenge/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
 |  |
